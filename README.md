@@ -11,5 +11,7 @@ From the analysis conducted on the aviation data, the observations were made:
    3.  The trend analysis shows a gradual decline in airplane incidents over the years, reflecting improvements in aviation technology, safety protocols, and regulatory oversight.
    4. Most injuries occur during Cruise and Take-Off phases, indicating critical points where enhanced safety measures are necessary. 
    5. Personal and Instructional Flight categories have the highest total injuries, indicating they are the most risky.
+### Dashboard link
+https://public.tableau.com/app/profile/abby.stacy/viz/Phase1_Book1/Aviationriskanalysis?publish=yes
 
 
