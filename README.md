@@ -7,6 +7,6 @@ The data used in this project is a dataset from the National Transportation Safe
 The analysis yielded meaningful insights as can be seen from the following visualizations
 ![top_15_aircraft](top_15_aircraft_makes.png)
 
-![Top 15 Aircraft with the highest survivability](Top 15 Aircraft with the highest survivability.jpg)
+![aircraft_category_vs_uninjured](aircraft_category_vs_uninjured.png)
 
 ![Aircaft vs incident](Aircraft_vs_incident.png)
