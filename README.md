@@ -6,7 +6,6 @@ The data used in this project is a dataset from the National Transportation Safe
 ### Findings
 The analysis yielded meaningful insights as can be seen from the following visualizations
 ![top_15_aircraft](top_15_aircraft_makes.png)
-
-![aircraft_category_vs_uninjured](aircraft_category_vs_uninjured.png)
+![Proportion of injuries by Phase of flight](Proportion of injuries by Phase of flight.png)
 
 ![Aircaft vs incident](Aircraft_vs_incident.png)
