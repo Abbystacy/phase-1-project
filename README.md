@@ -4,7 +4,12 @@ Our company is poised to enter the aviation industry by purchasing and managing 
 ### Data understanding
 The data used in this project is a dataset from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 ### Findings
-The analysis yielded meaningful insights as can be seen from the following visualizations
-![top_15_aircraft](top_15_aircraft_makes.png)
+From the analysis conducted on the aviation data, the observations were made:
+
+   1. Cessna and Piper aircraft makes are associated with the highest injury and icident rates
+   2. Boeing aircraft have higher survivability rates and are not listed among the top 10 high-risk aircraft makes. 
+   3.  The trend analysis shows a gradual decline in airplane incidents over the years, reflecting improvements in aviation technology, safety protocols, and regulatory oversight.
+   4. Most injuries occur during Cruise and Take-Off phases, indicating critical points where enhanced safety measures are necessary. 
+   5. Personal and Instructional Flight categories have the highest total injuries, indicating they are the most risky.
 
 
