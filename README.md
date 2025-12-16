@@ -7,6 +7,6 @@ The data used in this project is a dataset from the National Transportation Safe
 The analysis yielded meaningful insights as can be seen from the following visualizations
 ![top_15_aircraft](top_15_aircraft_makes.png)
 
-![Time Series](time_series.png)
+![fatal_injuries_by_engines](fatal_injuries_by_engines.png)
 
 ![Aircaft vs incident](Aircraft_vs_incident.png)
