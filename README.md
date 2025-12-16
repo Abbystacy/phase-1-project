@@ -4,8 +4,8 @@ Our company is poised to enter the aviation industry by purchasing and managing 
 ### Data understanding
 The data used in this project is a dataset from the National Transportation Safety Board that includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 ### Findings
-The analysis yielded meaningful insights as can be seen from the following visualizations:
-![Survivability](survivability.png)
+The analysis yielded meaningful insights as can be seen from the following visualizations
+![top_15_aircraft](top_15_aircraft_makes.png)
 
 ![Time Series](time_series.png)
 
