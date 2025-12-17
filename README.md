@@ -11,6 +11,19 @@ From the analysis conducted on the aviation data, the observations were made:
    3.  The trend analysis shows a gradual decline in airplane incidents over the years, reflecting improvements in aviation technology, safety protocols, and regulatory oversight.
    4. Most injuries occur during Cruise and Take-Off phases, indicating critical points where enhanced safety measures are necessary. 
    5. Personal and Instructional Flight categories have the highest total injuries, indicating they are the most risky.
+### Recommendations
+1. **Focus on Low-Risk Models**
+
+For starting the new business endeavor, focusing on acquiring and operating low-risk models is advisable. These models have demonstrated better safety records, lower incidents of severe injuries and high survivability rates. A great example is Boeing. Aircraft makes to steer clear of include Cessna and Piper since these are associated with the highest incidents and injuries.
+
+2. **Risk Management for Private Flights**
+
+Since part of the new endeavor is to purpase and operate aircrafts for private purposes, it is of importance that extra attention be given to risk management strategies when operating private flights, seeing as personal flights are the most risky. 
+This may include investing in advanced safety equipment, rigorous training programs, and strict safety protocols.
+
+3. **Enhanced Safety Protocols**
+
+It will be essential to instill a strong safety culture in the company. This covers routine incident investigations, safety audits, and incident reviews.
 ### Dashboard link
 https://public.tableau.com/app/profile/abby.stacy/viz/Aviationriskanalysis/Dashboard1?publish=yes
 
